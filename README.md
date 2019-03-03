@@ -1,2 +1,2 @@
 # portfolio
-Technical resume/portfolio.
+Technical resume/portfolio website.
